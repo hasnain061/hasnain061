@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/hasnain061/hasnain061/assets/124372588/1bcd2e92-9663-49dc-817e-2a1ce9a928c2)
+[![MasterHead](C:\Users\wajah\OneDrive\Desktop\pexels-photo-301920.webp)
 )]
 <h1 align="center">Hi 👋, I'm Hasnain Haider</h1>
 <h3 align="center">Programmer</h3>
